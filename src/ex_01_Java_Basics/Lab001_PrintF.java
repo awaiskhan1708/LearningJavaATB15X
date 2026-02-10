@@ -4,7 +4,7 @@ public class Lab001_PrintF {
     public static void main(String[] args)
     {
         byte a = 9;
-        System.out.printf("%d*1 = %d%n", a,a*1);
+        System.out.printf("%d*1 = %d%n", a*1,a);
         System.out.printf("%d*2 = %d%n", a,a*2);
         System.out.printf("%d*3 = %d%n", a,a*3);
         System.out.printf("%d*4 = %d%n", a,a*4);
