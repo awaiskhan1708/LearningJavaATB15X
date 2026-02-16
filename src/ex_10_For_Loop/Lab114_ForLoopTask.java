@@ -3,8 +3,7 @@ package ex_10_For_Loop;
 import java.util.Scanner;
 
 public class Lab114_ForLoopTask {
-    public static void main(String[] args) {
-
+    public static void main(String[]args) {
 
         System.out.println("Wecome to the Factorial Program");
         Scanner scanner = new Scanner(System.in);
